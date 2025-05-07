@@ -1,0 +1,29 @@
+Tables from jadwal.html:
+Jam Ke	Waktu	Senin	Selasa	Rabu	Kamis	Jumat
+1	07:30 - 08:35	Upacara	IPAS	Bahasa Indonesia	Matematika	PAI
+2	08:35 - 09:15	Bahasa Indonesia	IPAS	Seni	Matematika	PAI
+ISTIRAHAT
+3	09:15 - 09:30	IPAS	Matematika	Pend. Pancasila	Pend. Pancasila	Bahasa Inggris
+4	09:30 - 10:40	IPAS	Matematika	Pend. Pancasila	Pend. Pancasila	Bahasa Inggris
+ISTIRAHAT
+5	10:55 - 11:35	Seni	Bahasa Indonesia	P5	P5	-
+6	11:35 - 12:05	Seni	Bahasa Indonesia	P5	P5	-
+7	12:05 - 12:40	BTA	BTA	P5	P5	-
+
+========================================
+
+Tables from rapor.html:
+Mata Pelajaran	Nilai
+Kelompok Mata Pelajaran Umum
+Pendidikan Agama	85
+Pendidikan Pancasila	80
+Bahasa Indonesia	88
+Bahasa Inggris	90
+Matematika	82
+Kelompok Mata Pelajaran Kejuruan
+Dasar Program Keahlian	87
+Rekayasa Perangkat Lunak	92
+Pengembangan Gim	89
+
+========================================
+
